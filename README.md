@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bahdias
 - 👀 I’m interested in Back-End Programming
-- 🌱 I’m currently learning C language, Front-End and UI/UX Design
-- 💞️ I’m looking to collaborate on Projects Front-End
+- 💞️ I’m looking to collaborate on Projects Back-End
 - 📫 How to reach me? By my email barbarapmdias@yahoo.com.br
 
 <!---
